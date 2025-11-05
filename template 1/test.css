@@ -123,9 +123,10 @@ footer{
 
 
 .landing{
-    background-image: url(pexels-rostislav-5011647.jpg);
+    background-image: url(pexels-njeromin-15352968.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center 90%;
     height: calc(100vh - 200px);
     position: relative;
     
